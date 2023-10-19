@@ -4,13 +4,9 @@
             <NuxtLink to="/">Index</NuxtLink>
             <NuxtLink to="/about">About</NuxtLink>
         </header>
-
-
         <div>
             <slot />
         </div>
-
-
     </div>
 </template>
 
